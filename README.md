@@ -1,6 +1,6 @@
 # Don't Sleep
 
-게임은 <a href="https://2024fall-swpp.github.io/team-project-for-2024-fall-swpp-team-20/">여기</a>에서 플레이 하실 수 있습니다!
+게임은 <a href="https://dandyday.github.io/dont-sleep/">여기</a>에서 플레이 하실 수 있습니다!
 
 ### 1. 조작법
 
